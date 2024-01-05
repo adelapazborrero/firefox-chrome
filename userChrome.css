@@ -328,7 +328,7 @@
    [!] only use one option at a time
 */
 
-@import "./css/buttons/unified_extensions_button_hidden.css"; /**/
+/* @import "./css/buttons/unified_extensions_button_hidden.css"; /**/
 /* @import "./css/buttons/unified_extensions_button_popup_icons_only.css"; /**/
 /* @import "./css/buttons/unified_extensions_button_popup_icons_only_horizontal.css"; /**/
 
@@ -338,7 +338,7 @@
    ----------------------
 */
 
-@import "./css/buttons/whatnew_button_always_hidden.css"; /**/
+/* @import "./css/buttons/whatnew_button_always_hidden.css"; /**/
 /* @import "./css/buttons/forward_button_hide_when_disabled.css"; /**/
 /* @import "./css/buttons/back_and_forward_separated_history_popups.css"; /**/
 /* @import "./css/buttons/back_and_forward_leftclick_history_popup_hidden.css"; /**/
@@ -355,7 +355,7 @@
 
 /* @import "./css/buttons/custom_backforward_large_ff2.css"; /**/
 /* @import "./css/buttons/custom_backforward_large_ff3.css"; /**/
-@import "./css/buttons/custom_backforward_large_ff3_strata.css"; /**/
+/* @import "./css/buttons/custom_backforward_large_ff3_strata.css"; /**/
 /* @import "./css/buttons/custom_backforward_large_ff3_strata_orange.css"; /**/
 /* @import "./css/buttons/custom_backforward_large_ff3_strata_red.css"; /**/
 /* @import "./css/buttons/custom_backforward_large_ie8.css"; /**/
